@@ -1,0 +1,1 @@
+{"activeStatus":1,"outputObject":{},"outSequenceObject":{"mobileNo":"94770399498","message":"{result}"},"settingsObject":{},"connectToken":"","inputObject":{"filterCriteria":"Global Warming"},"sessionId":525252525,"userId":525}
